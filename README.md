@@ -6,5 +6,5 @@
 - 🔭 I’m currently working on Distributed Stream Processing Systems especially [Apache Flink](http://github.com/apache/flink/).
 - 🌱 I’m currently learning advanced topics in distributed systems and databases.
 - 📫 How to reach me: maoyancan@u.nus.edu.
-- ⚡ Fun fact: Dota2, Anime, Workout, Music, Basketball.
+- ⚡ Fun fact: Reading, Dota2, Anime, Workout, Music.
 
